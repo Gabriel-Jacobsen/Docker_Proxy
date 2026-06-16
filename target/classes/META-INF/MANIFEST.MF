@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Build-Jdk-Spec: 21
+Class-Path: mysql-connector-j-8.3.0.jar protobuf-java-3.25.1.jar jackson
+ -databind-2.20.0.jar jackson-annotations-2.20.jar jackson-core-2.20.0.j
+ ar
+Main-Class: com.meuprojeto.Main
+Created-By: Maven Integration for Eclipse
+

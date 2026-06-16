@@ -1,0 +1,10 @@
+{
+  "cacheTTL": 60,
+  "senha": "1234",
+  "tabela": "teste",
+  "connections": [
+	"jdbc:mysql://localhost:3310/docker_test",
+	"jdbc:mysql://localhost:3311/docker_test",
+	"jdbc:mysql://localhost:3312/docker_test"
+  ]
+}
